@@ -1,4 +1,4 @@
-👋 Hello, I'm itnunu751, a aspiring cybersecurity analyst with a relentless curiosity for all things related to digital security. Welcome to my GitHub profile!
+👋 Hello, I'm itnunu751, an aspiring cybersecurity analyst with a relentless curiosity for all things related to digital security. Welcome to my GitHub profile!
 
 🔐 About Me:
 I'm on a mission to safeguard digital landscapes from evolving threats. 
@@ -19,7 +19,11 @@ Secure Coding Practices
 
 🚀 Projects:
 I'm a firm believer in learning by doing. Explore my GitHub repositories to find projects that demonstrate my expertise, including:
-
+-	Created a minimal HTTP 1.1 server, based on RFC 2616, using the C standard library as a “backdoor” that would execute commands embedded into client requests 
+-	Reverse engineered a password from a binary x86_64 program using objdump and Ghidra
+-	Performed black-box security audits of small web applications using a browser, HTTP request sender, and Burp Suite to develop exploits for common web vulnerabilities
+-	Spoofed IP addresses using the Python scapy package to gain the trust of UDP and TCP services and capture sensitive data
+-	Developed a simple fuzzer to fuzz binary programs 
 
 
 📚 Learning Never Stops:
